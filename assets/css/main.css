@@ -4004,13 +4004,7 @@ input, select, textarea {
 		width: 90%;
 		text-align: center;
 	}
-	/* #contact h2 {
-		text-align: center;
-	} */
 	.col-12 > ul.actions{
 		display: flex;
 		justify-content: center;
 	}
-	/* #contact > p {
-		text-align: center;
-	} */
