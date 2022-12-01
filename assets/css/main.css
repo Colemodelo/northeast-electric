@@ -4015,4 +4015,7 @@ input, select, textarea {
 	}
 	#testimonials button{
 		box-shadow: none;
+		display: flex;
+		align-items: center;
+		margin: auto;
 	}
