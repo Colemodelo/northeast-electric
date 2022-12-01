@@ -3757,7 +3757,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		max-width: 45em;
+		max-width: 55em;
 		text-align: center;
 		justify-content: center;
 	}
@@ -3767,7 +3767,7 @@ input, select, textarea {
 			-webkit-order: 1;
 			-ms-order: 1;
 			order: 1;
-			padding-right: 3em;
+			/* padding-right: 3em; */
 			width: 70%;
 		}
 
@@ -4007,4 +4007,12 @@ input, select, textarea {
 	.col-12 > ul.actions{
 		display: flex;
 		justify-content: center;
+	}
+	#testimonials{
+		width: 80%;
+		margin: 5em auto;
+		text-align: center;
+	}
+	#testimonials button{
+		box-shadow: none;
 	}
