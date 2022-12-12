@@ -4021,4 +4021,15 @@ input, select, textarea {
 		.actions li{
 			margin: auto;
 		}
+		.row .col-4{
+			width: 50%;
+		}
+		.image.fit img{
+			height: 21em;
+		}
+	}
+	@media screen and (max-width: 500px){
+		.row .col-4{
+			width: 100%;
+		}
 	}
