@@ -4017,3 +4017,8 @@ input, select, textarea {
 		align-items: center;
 		margin: auto;
 	}
+	@media screen and (max-width: 980px) {
+		.actions li{
+			margin: auto;
+		}
+	}
