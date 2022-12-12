@@ -116,7 +116,7 @@
 					<p>
 						<a href="tel:5189665090" class="icon solid fa-phone"> 518-966-5090</a>
 					</p>
-					<form method="post" action="https://formsubmit.co/general@northeastelectric.co">
+					<form method="post" action="https://formsubmit.co/general@northeastelectric.co" enctype="multipart/form-data">
 						<div class="row gtr-uniform">
 							<input type="hidden" name="_subject" value="New submission!">
 							<input type="hidden" name="_cc" value="will@northeastelectric.co">
@@ -138,6 +138,11 @@
 							<div class="col-12">
 								<ul class="actions">
 									<li><input type="submit" value="Send Message" class="primary" /></li>
+									<li>
+										<label for="file" class="file">
+										<input type="file" name="attachment" id="file" accept="image/png, image/jpeg" value="Attach File" class="inputfile">
+									Upload</label>
+									</li>
 									<li><input type="reset" value="Reset" /></li>
 								</ul>
 							</div>
