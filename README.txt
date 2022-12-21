@@ -1,4 +1,5 @@
-Northeast Electric 
+## Northeast Electric
+https://northeastelectric.co
 
 Developed:
 Cole Modelo
@@ -7,7 +8,6 @@ colemodelo.com | @coleModelo
 Design:
 AJ
 aj@lkn.io | @ajlkn
-
 
 Credits:
 
