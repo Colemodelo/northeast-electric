@@ -2,11 +2,11 @@
 https://northeastelectric.co
 
 Developed:
-Cole Modelo
-colemodelo.com | @coleModelo
+Cole Modelo  
+https://colemodelo.com | @coleModelo
 
 Design:
-AJ
+AJ  
 aj@lkn.io | @ajlkn
 
 Credits:
