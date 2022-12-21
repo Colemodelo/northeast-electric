@@ -1,11 +1,11 @@
 ## Northeast Electric
 https://northeastelectric.co
 
-Developed:
+Developed:  
 Cole Modelo  
 https://colemodelo.com | @coleModelo
 
-Design:
+Design:  
 AJ  
 aj@lkn.io | @ajlkn
 
