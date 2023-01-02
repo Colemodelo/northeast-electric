@@ -1,8 +1,8 @@
 ## Northeast Electric
 https://northeastelectric.co
 
-Developed:  
-Cole Modelo  
+Development:  
+Cole Modelo | CM Web Design & Development  
 https://colemodelo.com | @coleModelo
 
 Design:  
